@@ -177,7 +177,7 @@ export default function Home() {
           className="mx-auto w-32 sm:w-40 h-32 sm:h-40 mb-4 rounded-full shadow-lg object-cover"
         />
         <h2 className="font-bold text-xl sm:text-2xl text-pink-600 mb-2">
-          💖 Nazmun Nahar 💖
+          💖 NAZMUN NAHAR 💖
         </h2>
         <p className="mt-2 font-medium text-pink-700 text-shadow">
           May your life be full of love & happiness ✨
@@ -215,7 +215,7 @@ export default function Home() {
               onClick={closePopup}
               className="mt-4 px-6 py-2 bg-gradient-to-br from-pink-500 to-pink-400 text-white rounded-2xl shadow-md"
             >
-              Aww ❤️
+              Yes❤️
             </button>
           </div>
         </div>
