@@ -215,7 +215,7 @@ export default function Home() {
               onClick={closePopup}
               className="mt-4 px-6 py-2 bg-gradient-to-br from-pink-500 to-pink-400 text-white rounded-2xl shadow-md"
             >
-              Yes❤️
+              Yes..❤️
             </button>
           </div>
         </div>
